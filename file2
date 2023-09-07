@@ -1,0 +1,10 @@
+basic git commands
+1 git init
+2 git log
+3 git config --global user.name
+4 git config --global user.email
+5 git status
+6 git . and git --all
+7 git add
+8 git diff
+
